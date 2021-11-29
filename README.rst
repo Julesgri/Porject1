@@ -13,6 +13,10 @@ download python,
 download django, 
 download pandas.
 
+
+run line python -m pip install --user "Django-Project sex/dist/django-Project sex-0.1.tar.gz" to install package
+
+
 1. Add "Project1" to your INSTALLED_APPS setting like this::
 
     INSTALLED_APPS = [
